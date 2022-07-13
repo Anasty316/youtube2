@@ -112,13 +112,7 @@ This project is actively maintained and will continue so until I'm tired of it.
 
 </p>
 
-### Video Tutorial
 
-Here's a YouTube tutorial video for deploying the bot on [Heroku](https://heroku.com/ "Heroku"). [Video Link](https://youtu.be/QHHTSS00anw "Tutorial video for deploying to Heroku").
-
-### Contact
-
-You can contact me [@Moksh_b658](https://telegram.dog/Moksh_b658 "GreyMatter").
 
 ### Credits
 Original Repo Owner 👇
